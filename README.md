@@ -1,7 +1,7 @@
 
 # Youtube Audio Downloader Bot  
 [![enter image description here](https://img.shields.io/badge/Bot-@ytadlbot-blue?logo=telegram&style=for-the-badge)](https://t.me/ytadlbot)
-![GitHub deployments](https://img.shields.io/github/deployments/tanveerraza789/ytadlbot/ytadlbot?label=heroku&logo=heroku&style=for-the-badge)
+![GitHub deployments](https://img.shields.io/github/deployments/Noone927/ytadlbot/ytadlbot?label=heroku&logo=heroku&style=for-the-badge)
 
 <p align="center"><img src="image/icon.png" width="200px" alt="icon"></p>
 
